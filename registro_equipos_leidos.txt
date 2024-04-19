@@ -1,0 +1,16 @@
+Equipo: Universitario
+Entrenador: Juan Perez
+Jugador: Jhoel Estrada - Número de camiseta: 15 - Posición: Delantero
+--------------------------------------------------------------------------
+Equipo: Cristal 
+Entrenador: Ederson Moreira
+Jugador: Jhonatan Azorsa - Número de camiseta: 1 - Posición: Arquero
+--------------------------------------------------------------------------
+Equipo: Melgar
+Entrenador: Hernan Torres
+Jugador: Jhon Carbajal - Número de camiseta: 5 - Posición: Defensa
+--------------------------------------------------------------------------
+Equipo: Universidad César Vallejo
+Entrenador: Lucho Hidalgo
+Jugador: Cristian Mendez  - Número de camiseta: 20 - Posición: Medio Campista
+--------------------------------------------------------------------------
